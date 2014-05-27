@@ -1,0 +1,9 @@
+{
+  "firebase": "torid-fire-4332",
+  "public": "./app",
+  "ignore": [
+    "firebase.json",
+    ".*",
+    "**/node_modules/**"
+  ]
+}
